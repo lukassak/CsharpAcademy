@@ -1,0 +1,19 @@
+C:\Users\Luke\Desktop\AcademyProject-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Luke\Desktop\AcademyProject-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Luke\Desktop\AcademyProject-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Luke\Desktop\AcademyProject-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataLayer.dll
+C:\Users\Luke\Desktop\AcademyProject-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataLayer.pdb
+C:\Users\Luke\Desktop\AcademyProject-master\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\AcademyProject-master\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Luke\Desktop\AcademyProject-master\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Luke\Desktop\Lukas Sakarnis\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Luke\Desktop\Lukas Sakarnis\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Luke\Desktop\Lukas Sakarnis\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Luke\Desktop\Lukas_Sakarnis\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Luke\Desktop\Lukas_Sakarnis\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Luke\Desktop\Lukas_Sakarnis\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Luke\Desktop\Lukas_Sakarnis\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Luke\Desktop\Lukas_Sakarnis\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Luke\Desktop\Lukas_Sakarnis\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataLayer.dll
+C:\Users\Luke\Desktop\Lukas_Sakarnis\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataLayer.pdb
+C:\Users\Luke\Desktop\Lukas_Sakarnis\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
